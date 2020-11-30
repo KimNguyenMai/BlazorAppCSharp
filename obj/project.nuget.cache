@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AxorhCxbN4+H0qYqtVoafse0rA6/EnaAXdaJmCqmKzWJOP884FVtd6uJC4j5p+Vm+pMrPx1JIWPYo8TOVN+0qQ==",
+  "dgSpecHash": "nM/HtauJnMqtrPlLxgbaalcT2GEWnnCNsnQ6rFuLGFf1vNyy5empDX3mQcz29KwMRZgiUuAM5dtah6J4vpFi0Q==",
   "success": true,
-  "projectFilePath": "/Users/kimnguyen/Desktop/Fall Course Dev/CS504/HOP Dev/BlazorApp/BlazorApp.csproj",
+  "projectFilePath": "/Users/kimnguyen/Desktop/Fall Course Dev/CS504/HOP Dev/BlazorAppCSharp/BlazorApp.csproj",
   "expectedPackageFiles": [
     "/Users/kimnguyen/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.113.1/stub.system.data.sqlite.core.netstandard.1.0.113.1.nupkg.sha512",
     "/Users/kimnguyen/.nuget/packages/system.data.sqlite.core/1.0.113.6/system.data.sqlite.core.1.0.113.6.nupkg.sha512"

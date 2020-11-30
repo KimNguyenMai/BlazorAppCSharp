@@ -82,11 +82,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kimnguyen/Desktop/Fall Course Dev/CS504/HOP Dev/BlazorApp/BlazorApp.csproj",
+      "projectUniqueName": "/Users/kimnguyen/Desktop/Fall Course Dev/CS504/HOP Dev/BlazorAppCSharp/BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "/Users/kimnguyen/Desktop/Fall Course Dev/CS504/HOP Dev/BlazorApp/BlazorApp.csproj",
+      "projectPath": "/Users/kimnguyen/Desktop/Fall Course Dev/CS504/HOP Dev/BlazorAppCSharp/BlazorApp.csproj",
       "packagesPath": "/Users/kimnguyen/.nuget/packages/",
-      "outputPath": "/Users/kimnguyen/Desktop/Fall Course Dev/CS504/HOP Dev/BlazorApp/obj/",
+      "outputPath": "/Users/kimnguyen/Desktop/Fall Course Dev/CS504/HOP Dev/BlazorAppCSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kimnguyen/.nuget/NuGet/NuGet.Config"
