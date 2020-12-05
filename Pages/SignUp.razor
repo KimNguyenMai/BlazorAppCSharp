@@ -10,7 +10,7 @@
     <label for="lname">Password:</label>
     <input type="password" @bind="@password" @bind:event="oninput" id="password" name="password"><p>@warning</p><br><br>
     <button @onclick="signup"> Sign Up </button> 
-    <input type=button onClick="location.href=''" value='Cancel'>
+    <input type=button onClick="location.href='/login'" value='Cancel'> //redirect to login page
 }
 else{
     <label for="fname">Account:</label>

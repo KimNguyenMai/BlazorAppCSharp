@@ -2,6 +2,8 @@ using System.Data.SQLite;
 using System.Threading.Tasks;
 
 
+
+
 namespace BlazorApp.Data
 {
     public class SqliteService
@@ -9,7 +11,7 @@ namespace BlazorApp.Data
         string stm = "SELECT SQLITE_VERSION()"; //select SQLite version
 
         static string dbFile =@"URI=file:.\test.db"; //database file
-        static SQLiteConnection con;
+        public static SQLiteConnection con;
 
         //constructor
         public SqliteService(){
@@ -74,5 +76,8 @@ namespace BlazorApp.Data
             }
         return Task.FromResult(false);
         }
+
+        
+        
     }
 }
